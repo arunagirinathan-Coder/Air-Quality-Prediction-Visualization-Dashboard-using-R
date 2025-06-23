@@ -58,8 +58,6 @@ shiny::runApp('path_to_your_project_folder')
 
 📊 Sample Screenshot
 
-![Screenshot](Sample_Screenshot)
-
 
 ## 📌 Future Improvements
 
